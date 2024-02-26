@@ -8,6 +8,8 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ➡️ **https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb**
 
+**https://jschoeberl.github.io/iFEM-lite/lab?path=iFEM.ipynb**
+
 
 ## Setting up your own NGSolve - jupyterlite demos:
 

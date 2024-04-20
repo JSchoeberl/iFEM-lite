@@ -20,7 +20,7 @@ jobs:
           python-version: '3.10'
       - name: Install the dependencies
         run: |
-          git submodule update --init
+          git submodule update --init --single-branch
           rm iFEM/*.yml iFEM/*.save iFEM/*.SAVE iFEM/*.txt iFEM/*.md iFEM/postBuild
           python -m pip install -r requirements.txt
       - name: Build the JupyterLite site

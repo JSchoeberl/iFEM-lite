@@ -1,4 +1,5 @@
 [submodule "iFEM"]
 	path = iFEM
 	url = https://github.com/JSchoeberl/iFEM.git
+        branch = master
 
